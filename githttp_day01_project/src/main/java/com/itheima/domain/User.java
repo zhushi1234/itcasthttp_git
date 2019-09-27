@@ -6,5 +6,6 @@ public class User {
     private String name;
     private String address;
     private String birthday;
+    private String age;
 
 }
